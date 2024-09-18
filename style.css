@@ -1,0 +1,17 @@
+#image {
+  width: 35%;
+  cursor: pointer;
+  margin: 20px;
+}
+
+#message {
+  font-size: larger;
+}
+
+.dot {
+  background: #000;
+  height: 0.5em;
+  width: 0.5em;
+  border-radius: 10%;
+  position: absolute;
+}
